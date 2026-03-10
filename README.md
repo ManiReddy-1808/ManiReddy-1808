@@ -5,7 +5,10 @@
 Building reliable infrastructure, automating operations, and supporting production systems.
 Focused on Linux administration, DevOps tooling, and Kubernetes-based platforms.
 
-LinkedIn • Email • GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-reddy-konuganti-3a4639236/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konugantimanikantareddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManiReddy-1808?tab=repositories)
+
 
 **Infrastructure Operations · DevOps Automation · Production Support**
 
@@ -200,7 +203,7 @@ CONTINUOUS LEARNING     → Technology evolves, engineers must evolve
 
 I enjoy discussing infrastructure automation, DevOps practices, and cloud-native technologies.
 
-[LinkedIn](https://www.linkedin.com/in/manikanta-reddy-konuganti-3a4639236/) • [Email](konugantimanikantareddy@gmail.com) • [GitHub](https://github.com/ManiReddy-1808?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/manikanta-reddy-konuganti-3a4639236/) • [Email](mailto:konugantimanikantareddy@gmail.com) • [GitHub](https://github.com/ManiReddy-1808?tab=repositories)
 
 **“Good infrastructure is invisible — because everything just works.”**
 
