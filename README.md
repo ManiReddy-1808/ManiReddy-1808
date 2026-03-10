@@ -194,7 +194,7 @@ CONTINUOUS LEARNING     → Technology evolves, engineers must evolve
 
 I enjoy discussing infrastructure automation, DevOps practices, and cloud-native technologies.
 
-LinkedIn(https://www.linkedin.com/in/manikanta-reddy-konuganti-3a4639236/) • Email(konugantimanikantareddy@gmail.com) • GitHub(https://github.com/ManiReddy-1808?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/manikanta-reddy-konuganti-3a4639236/) • [Email](konugantimanikantareddy@gmail.com) • [GitHub](https://github.com/ManiReddy-1808?tab=repositories)
 
 **“Good infrastructure is invisible — because everything just works.”**
 
